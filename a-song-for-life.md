@@ -6,5 +6,5 @@ album: Karma to Burn
 writer: Rodney Crowell
 tags: [folk, comfort]
 geniusUrl: https://genius.com/The-waterboys-a-song-for-the-life-lyrics
-note: The one that always brings me back to myself.
+note: lately I've learned how to listen, to a sound like the sun going down
 ---
