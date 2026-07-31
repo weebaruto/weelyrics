@@ -1,8 +1,10 @@
 ---
-title: A Song for Life
-artist: Ralph McTell
-year: 1971
+title: A Song for the Life
+artist: The Waterboys
+year: 2005
+album: Karma to Burn
+writer: Rodney Crowell
 tags: [folk, comfort]
-geniusUrl: https://genius.com/Ralph-mctell-a-song-for-life-lyrics
+geniusUrl: https://genius.com/The-waterboys-a-song-for-the-life-lyrics
 note: The one that always brings me back to myself.
 ---
